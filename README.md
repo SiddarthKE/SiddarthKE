@@ -1,4 +1,4 @@
-# 💫 About Me:        Hi👋, I'm Siddarth K.E
+#                Hi👋, I'm Siddarth K.E
 First Year B.E. CSE Student |<br>Aspiring Software Developer | <br>Learning, Building & Exploring Technology |
 
 
