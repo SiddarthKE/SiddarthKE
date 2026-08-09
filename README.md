@@ -1,5 +1,10 @@
 #                 Hi👋, I'm Siddarth K.E
-First Year B.E. CSE Student |<br>Aspiring Software Developer | <br>Learning, Building & Exploring Technology |
+I'm a first-year B.E. Computer Science & Engineering student at
+Cambridge Institute of Technology, Bengaluru.
+
+I'm currently building my foundation in programming and computer science
+while exploring software development through hands-on learning and
+personal projects.
 
 
 ## 🌐 Socials:
